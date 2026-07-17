@@ -52,20 +52,6 @@ The actual connection string depends on the system, driver, telemetry module, an
 
 ---
 
-## Project Structure
-
-```text
-drone-path-control-api/
-│
-├── api_fixed.py
-├── api_drone_full.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
----
-
 ## File Explanation
 
 ### api_fixed.py
@@ -477,6 +463,9 @@ This gives:
 ```text
 0.25 × 4 = 1 meter
 ```
+
+<!-- update -->
+Currently polishing GitHub projects and documentation.
 
 ---
 
